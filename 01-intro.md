@@ -1,20 +1,20 @@
-# Introduction
+# Introdução
 
-Welcome to the "Getting Started with Open Source" course! This comprehensive course will guide you through the fascinating world of open source and help you become an active contributor. By the end of this course, you should have a solid understanding of how to find, join, and contribute to open source projects, as well as how to develop your open source resume. But first, let's set the stage by discussing the prerequisites, objectives, and expectations for this course.
+Bem-vindo ao curso "Introdução ao Mundo do Software Livre"! Este curso abrangente irá guiá-lo pelo fascinante mundo do software livre e ajudá-lo a se tornar um colaborador ativo. Ao final deste curso, você deve ter um entendimento sólido de como encontrar, participar e contribuir para projetos de software livre, além de como desenvolver seu currículo no mundo do software livre. Mas antes, vamos preparar o terreno discutindo os pré-requisitos, objetivos e expectativas para este curso.
 
-## Prerequisites
+## Pré-Requisitos
 
-Before diving into the world of open source, it's essential to have a basic understanding of programming concepts and some experience working with code. While the course will provide examples and demos, you'll get the most out of the material if you have some prior knowledge.
+Antes de se aprofundar no mundo do software livre, é essencial ter um entendimento básico dos conceitos de programação e alguma experiência trabalhando com código. Embora o curso forneça exemplos e demonstrações, você obterá o máximo do material se tiver algum conhecimento prévio.
 
-Additionally, this course assumes that you are familiar with Git and GitHub. Git is a widely-used version control system, and GitHub is a popular platform for hosting and collaborating on Git repositories. If you're not already familiar with Git and GitHub, we recommend taking some time to learn the basics before starting this course.
+Além disso, este curso pressupõe que você esteja familiarizado com o Git e o GitHub. O Git é um sistema de controle de versão amplamente utilizado, e o GitHub é uma plataforma popular para hospedar e colaborar em repositórios do Git. Se você ainda não estiver familiarizado com o Git e o GitHub, recomendamos dedicar algum tempo para aprender o básico antes de iniciar este curso.
 
-## Objectives
+## Objectivos
 
-Throughout this course, our primary objectives are to help you:
+Ao longo deste curso, nosso objetivo principail é ajudá-lo a:
 
-1. **Understand open source and its benefits**: We'll explore the concept of open source, its history, and the numerous advantages of contributing to open source projects.
-2. **Learn how to find open source projects**: Discovering projects that align with your interests and skills is crucial for a rewarding open source experience. We'll introduce you to tools and techniques for finding projects to contribute to.
-3. **Master the tools and processes for contributing**: We'll provide an overview of the essential tools and processes required for successful open source collaboration, such as version control, code review, and communication platforms.
+1. **Entender o software livre (open source) e seus benefícios**: Vamos explorar o conceito de software livre, sua história e as inúmeras vantagens de contribuir para projetos de código aberto.
+2. **Aprenda como encontrar projetos de código aberto**:  Descobrir projetos que estejam alinhados com seus interesses e habilidades é fundamental para uma experiência gratificante no software livre. Vamos apresentar a você ferramentas e técnicas para encontrar projetos aos quais contribuir.
+3. **Domine as ferramentas e processos para contribuir**:  Vamos oferecer uma visão geral das ferramentas essenciais e dos processos necessários para uma colaboração bem-sucedida no software livre, como controle de versão, revisão de código e plataformas de comunicação.
 4. **Gain practical experience**: By following along with examples and demos, you'll have the opportunity to practice your skills and gain confidence in your ability to contribute to open source projects.
 5. **Develop your open source resume**: Showcasing your open source contributions is vital for building your reputation in the community and demonstrating your expertise to potential employers or clients. We'll discuss strategies for developing and maintaining your open source resume.
 
